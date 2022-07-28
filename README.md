@@ -1,4 +1,4 @@
-# Projeto-Sistema_Agenda com nodeJS, Express, EJS, MongoDB, Helmet, CSRF, HTML, CSS
+# Projeto Sistema de Agenda com nodeJS, Express, EJS, MongoDB, Helmet, CSRF, HTML, CSS
 
 Projeto desenvolvido no padrão MVC para estudos com o nodeJS, mongoDB, Express, mongoose, flash mesages, EJS.
 
